@@ -1,0 +1,273 @@
+.*{
+	margin: 0%;
+}
+.navbar{
+	padding: 0.5%;
+	font-family: 'Poppins', sans-serif;
+
+}
+.navbar a:hover{
+	background-color: whitesmoke;
+	background-radius:20%;
+}
+
+.navbar a{
+	text-decoration: none;
+	margin-left:3%;
+	color: black;
+	font-size:20px;
+}
+.logo{
+	vertical-align: middle;
+}
+#signin{
+	background-color: #00baf2;
+	color: white;
+	border-radius: 15px;
+	margin-left: 1%;
+	padding: 0.4% 0.5%;
+	
+}
+.kyc{
+	text-align: center;
+	font-size: 20px;
+	background-color: whitesmoke;
+	padding:1;
+}
+.signin-2{
+	width: 2%;
+}
+.sec2{
+	display: flex;
+	justify-content:space-between;
+	padding: 10% 0% 7% 10%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+}
+.Download-Paytm-App{
+	border: 1px solid black;
+	color: white;
+	background-color: black;
+	border-radius: 30px;
+	padding: 2%;
+	width: 95%;
+	font-size: 15px;
+	
+}
+.Download-Paytm-App:hover{
+	background-color: white;
+	color: black;
+}
+.icons{
+	display: flex;
+	justify-content: space-evenly;
+	font-size: 20px;
+
+}
+.sec3{
+	background-color:#00baf2;
+	color: white;
+	padding-top:0.2%;
+	padding-left:1%;
+
+
+}
+.Recharge{
+	font-size: 30px;
+	font-family:'Poppins', sans-serif;
+	
+
+}
+.icons-2{
+	display: flex;
+	justify-content: space-evenly;
+	font-size: 20px;
+	margin: 0% 2% 0% 2%;
+
+}
+.sec4{
+	background-color:#0f4a8a;
+	color: white;
+	padding-top:0.2%;
+	padding-left:1%;
+	padding: 3%;
+
+}
+
+.Book,p{
+	font-size: 30px;
+	font-family:'Poppins', sans-serif;
+}
+
+
+
+.Download-Paytm-App{
+	border: 1px solid black;
+	color: white;
+	background-color: black;
+	border-radius: 30px;
+	padding: 2%;
+	width:50%;
+	font-size: 15px;
+	justify-content: space-evenly;
+}
+
+.Download-Paytm-App:hover{
+	background-color: white;
+	color: black;
+}
+.instrument{
+	font-size: 50px;
+	font-family:'Poppins', sans-serif;
+	vertical-align: middle;
+}
+
+.sec5{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	background-color:rgba(239,239,239,0.6);
+}
+.pay{
+	display: flex;
+
+}
+
+.fastest{
+	display: flex;
+	justify-content: space-between;
+	padding: 5%;
+	background-color: white;
+	font-size: 20Px;
+	vertical-align: center;
+}
+.load{
+	
+	font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+}
+
+.bank{
+	font-size: 25px;
+	font-family:'Poppins', sans-serif;
+	vertical-align: middle;
+}
+.UPI{
+	display: flex;
+	justify-content: space-between;
+	padding: 5%;
+	background-color: white;
+	font-size: 20Px;
+	vertical-align: center;
+
+
+}
+.pay{
+	display: flex;
+
+}
+.sec6{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	background-color:rgba(239,239,239,0.6);
+}
+.online{
+	font-size: 15px;
+}
+
+.Learn-More {
+	background-color:#0f4a8a;;
+	color: white;
+	font-size: 20px;
+	border-radius: 25px;
+	width: 42%;
+	padding:2%;
+	text-align: center;
+}
+.Learn-More:hover{
+	background-color:#00baf2;
+	color: white;
+}
+.pay{
+	
+	display: flex;
+}
+.Postpaid{
+	display: flex;
+	justify-content: space-evenly;
+	padding: 5%;
+	background-color: white;
+	font-size: 20Px;
+	vertical-align: center;
+}
+.want{
+	font-size: 30px;
+	font-family:'Poppins', sans-serif;
+	vertical-align: middle;
+}
+.with{
+ 	font-size: 18px;	
+}
+.sec7{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	background-color:rgba(239,239,239,0.6);
+	padding-left: 5%;
+}
+.Unlimited{
+	font-size: 35px;
+	font-family:'Poppins', sans-serif;
+	vertical-align: middle;
+}
+.HDFC{
+	font-size: 15px;
+}	
+.India{
+	font-size: 35px;
+	font-family:'Poppins', sans-serif;
+	vertical-align: middle;
+
+}
+.SBI{
+	font-size: 15px;
+}
+.Cashback{
+	display: flex;
+	justify-content: space-between;
+	padding: 5%;
+	background-color: white;
+	font-size: 20Px;
+	vertical-align: center;
+}
+.sec8{
+	padding: 7%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	background-color:rgba(239,239,239,0.6);
+	padding-left: 5%;
+}
+.Rewards{
+	padding-top: 8%
+
+}
+.jiffy{
+	display: flex;
+	justify-content:space-between;
+	padding: 10% 0% 7% 10%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+}
+.sec{
+	padding-top: %;
+
+}
+
+.by{
+	font-size: 50px;
+	font-family:'Poppins', sans-serif;
+	vertical-align: middle;
+}
+
+
