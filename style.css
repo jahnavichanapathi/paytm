@@ -1,5 +1,6 @@
 *{
 	margin: 0%;
+	border: 1px solid red;
 
 }
 .navbar{
@@ -35,6 +36,12 @@
 	background-color: whitesmoke;
 	padding:1;
 }
+.love{
+	font-size: 50px;
+	font-family:'Poppins', sans-serif;
+
+}
+
 .signin-2{
 	width: 2%;
 }
@@ -45,24 +52,15 @@
 	font-family: 'Poppins', sans-serif;
 	font-size: 25px;
 }
-.Download-Paytm-App{
-	border: 1px solid black;
-	color: white;
-	background-color: black;
-	border-radius: 30px;
-	padding: 2%;
-	width: 95%;
-	font-size: 15px;
-	
+.tickets p{
+	font-size: 16px;
 }
-.Download-Paytm-App:hover{
-	background-color: white;
-	color: black;
-}
+
 .icons{
 	display: flex;
 	justify-content: space-evenly;
 	font-size: 15px;
+	padding: 5%;
 
 }
 .sec3{
@@ -73,6 +71,8 @@
 }
 .sec3 p{
 	font-size: 19px;
+	padding-top: 5%;
+	padding-bottom: 6%;
 }
 
 .Recharge{
@@ -88,6 +88,7 @@
 	font-size: 15px;
 	margin: 0% 2% 0% 2%;
 	border: 1px solid #0f4a8a;
+	padding: 5%;
 
 }
 
@@ -103,7 +104,7 @@
 	font-size: 19px;
 }
 
-.Book,p{
+.Book p{
 	font-size: 30px;
 	font-family:'Poppins', sans-serif;
 }
@@ -115,10 +116,12 @@
 	color: white;
 	background-color: black;
 	border-radius: 30px;
-	padding: 2%;
-	width:50%;
-	font-size: 15px;
-	justify-content: space-evenly;
+	text-align: center;
+	width:55%;
+	padding: 1%;
+	margin-top: 4%;
+	font-size: 13px;
+
 }
 
 .Download-Paytm-App:hover{
@@ -152,6 +155,9 @@
 	font-size: 20Px;
 	vertical-align: center;
 }
+.fastest p{
+	font-size: 19px;
+}
 .load{
 	
 	font-family: 'Poppins', sans-serif;
@@ -183,17 +189,20 @@
 	font-size: 25px;
 }
 .online{
-	font-size: 15px;
+	font-size: 16px;
+	padding-top: 5%;
+	padding-bottom: 6%;
 }
 
 .Learn-More {
 	background-color:#0f4a8a;;
 	color: white;
-	font-size: 20px;
+	font-size: 15px;
 	border-radius: 25px;
-	width: 42%;
-	padding:2%;
+	width: 40%;
+	padding:0.6%;
 	text-align: center;
+	padding-left: 1%;
 }
 .Learn-More:hover{
 	background-color:#00baf2;
@@ -217,7 +226,10 @@
 	vertical-align: middle;
 }
 .with{
- 	font-size: 18px;	
+ 	
+ 	font-size: 16px;
+	padding-top: 5%;
+	padding-bottom: 6%;	
 }
 .sec7{
 	padding: 7%;
@@ -238,10 +250,14 @@
 	font-size: 35px;
 	font-family:'Poppins', sans-serif;
 	vertical-align: middle;
+	
 
 }
 .SBI{
-	font-size: 15px;
+	
+	font-size: 16px;
+	padding-top: 5%;
+	padding-bottom: 6%;
 }
 .sec8{
 	padding: 2%;
@@ -260,15 +276,16 @@
 	vertical-align: center;
 }
 .incredible{
-	margin-right: 1%;
+	margin-right: 3%;
 	padding: 3%;
 	background-color: white;
-
+	
 }
 .Rewards{
 	padding: 3%;
 	padding-top: 8%;
 	background-color: white;
+
 }
 
 
@@ -302,4 +319,189 @@
 }
 .wealth{
 	margin-right: 10%;
+	padding-left:2%;
+}
+.easy{
+	display: flex;
+	justify-content:space-between;
+	padding: 10% 0% 7% 10%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	padding-right: 10%;
+}
+.sec11{
+	padding: 2%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	padding-left: 5%;
+	margin-bottom: 2%;
+	vertical-align: middle;
+	padding: 5%;
+}
+
+
+.Buying{
+	font-size: 15px;
+	padding:5%;
+
+
+}
+.sec12{
+
+	padding: 2%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	padding-left: 2%;
+	margin-bottom: 2%;
+	vertical-align: middle;
+	padding: 5%;
+	background-color:rgba(239,239,239,0.6);
+	border: 1px solid whitesmoke ;
+	margin: 6%;
+
+	
+}
+.img38{
+	padding-left:20%;
+}
+.accept{
+	
+	display: flex;
+	justify-content:space-between;
+	
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	margin-left:7% ;
+	text-align: center;
+
+}
+.ease{
+	padding-top: 10%;
+	
+}
+.ok{
+	padding-top: 10%;
+	padding-right: 25%;
+}
+.grow{
+
+	font-size: 16px;
+	padding-top: 5%;
+	padding-bottom: 6%;
+}
+.sec13{
+	padding: 2%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	padding-left: 2%;
+	margin-bottom: 2%;
+	vertical-align: middle;
+	padding: 5%;
+	background-color:rgba(239,239,239,0.6);
+	border: 1px solid whitesmoke ;
+	margin: 6%;
+}
+.sec14{
+	padding: 2%;
+	font-family: 'Poppins', sans-serif;
+	font-size: 25px;
+	padding-left: 2%;
+	margin-bottom: 2%;
+	vertical-align: middle;
+	padding: 5%;
+	background-color:rgba(239,239,239,0.6);
+	border: 1px solid whitesmoke ;
+	margin: 6%;
+}
+.bill p{
+    font-size: 15px;
+	padding-top: 5%;
+	padding-bottom: 6%;
+	color:lightblack;
+}
+.to{
+	font-size: 40px;
+	font-family:'Poppins', sans-serif;
+	vertical-align: middle;
+
+}
+@media(max-width: 340px) {
+	.navbar a{
+		font-size: 5px;
+		margin: 0.5%;
+	
+	}
+	.kyc{
+		font-size: 6px;
+	}
+	.love{
+		font-size: 15px;
+	}
+	.tickets p{
+		font-size: 10px;
+
+	}
+	.tickets{
+		margin-right: 3%;
+	}
+	.Download-Paytm-App{
+		width: 75%;
+		font-size: 7px!important;
+	}
+	.Recharge{
+		font-size: 13px;
+
+	}
+	.icons p{
+		font-size:10px;
+
+	}
+	.image7{
+		width: 8%;
+	}
+	.image1,.image2, .image3, .image4, .image5, .image6,.image7{
+		width: 20%;
+		padding-right:5% ;
+		padding-top: 5% ;
+
+
+	}  
+	.icons-2 p{
+		font-size:10px;
+
+	}
+	.Book{
+		font-size: 13px;
+	}
+	
+	
+	.image8,.image9, .image10, .image11, .image12, .image13,.image14{
+		width: 20%;
+		padding-right:5% ;
+		padding-top:8% ;
+
+
+	} 
+	.instrument{
+		font-size: 15px;
+	}
+	.pay p{
+		font-size: 8px;
+		padding-top: 4%;
+	}
+	.fastest h1{
+		padding-top: 3%;
+		font-size:13px;
+		padding-bottom: 3%;
+
+
+	}
+	.load{
+		font-size: 1px;
+	}
+	 
+
+
+
+
 }
